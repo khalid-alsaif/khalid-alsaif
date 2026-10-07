@@ -63,9 +63,6 @@ Each project is available through its repository or downloadable source archive.
 | [Smart Agricultural Monitoring and Control System — source archive](https://github.com/khalid-alsaif/khalid-alsaif/blob/main/smart-agriculture-system-design.zip) | Engineering design / project planning / smart agriculture | COE384 |
 | [Enterprise Network Architecture Design — source archive](https://github.com/khalid-alsaif/khalid-alsaif/blob/main/enterprise-network-design.zip) | Computer networks / enterprise architecture | COE444 |
 
-## Leadership and languages
-
-Led an 11-member team in the Quran Division of KFUPM's Al-Tawjih Al-Dini Club, organizing student programs and competitions. My volunteer experience also includes mentoring middle-school students as a summer-program supervisor.
 
 **Languages:** Arabic (native) · English (professional)
 
