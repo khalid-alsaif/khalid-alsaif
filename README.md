@@ -1,15 +1,46 @@
-# Hi, I’m Khalid Alsaif
+# Hi, I'm Khalid Ali Alsaif
 
-I work on projects spanning embedded systems, digital hardware, robotics, and software. This portfolio brings together my academic engineering and programming work.
+**Computer Engineering graduate from KFUPM · First Honors · Former Saudi Aramco PAN Engineering Intern**
 
-## Featured projects
+I build projects across embedded systems, digital hardware, robotics, and software. My interests include industrial networking, connected devices, and turning engineering ideas into working systems.
 
-- **[AI-Driven Gearbox Fault Diagnostic Rig](https://github.com/khalid-alsaif/gearbox-fault-diagnostic-rig)** — Embedded acquisition and motor-control components from a multidisciplinary rig that classifies healthy, chipped-tooth, and missing-tooth gearbox conditions.
-- **[AI-Guided Maze-Navigating Car](https://github.com/khalid-alsaif/ai-maze-navigating-car)** — An ESP32 robotic car uses an onboard camera and an Edge Impulse classifier to recognize directional signs and navigate a maze, with ultrasonic obstacle detection.
-- **[FPGA Matrix Multiplier with HPS Interface](https://github.com/khalid-alsaif/fpga-matrix-multiplier)** — A parameterizable matrix multiplication accelerator for the DE1-SoC, using signed fixed-point arithmetic, ready/valid handshaking, asynchronous FIFOs, and HPS control software.
-- **[IoT Laser Tag](https://github.com/khalid-alsaif/iot-laser-tag)** — A two-player infrared tag game using ESP32-S3 devices, MQTT events, LED health indicators, and a Node-RED dashboard.
-- **[Single-Cycle and Pipelined Processor](https://github.com/khalid-alsaif/pipelined-processor-logisim)** — Logisim processor designs with a register file, ALU, instruction control, data forwarding, and hazard detection, including single-cycle and pipelined variants.
-- **[Obstacle Avoidance Car](https://github.com/khalid-alsaif/obstacle-avoidance-car)** — An LPC1768-based car project using ultrasonic distance measurements and continuous-rotation servos for obstacle avoidance. The project report also describes color detection and a distance display.
+[LinkedIn](https://www.linkedin.com/in/khalid-alsaif-2818242a3) · [Explore my repositories](https://github.com/khalid-alsaif?tab=repositories)
+
+## Education
+
+**B.S. in Computer Engineering — King Fahd University of Petroleum & Minerals (KFUPM)**  
+August 2021 – May 2026 · Graduated with First Honors
+
+My coursework covered computer networks and network design, embedded systems, digital logic and computer organization, operating systems, cloud and edge computing, Internet of Things, and computer and network security.
+
+## Industry experience
+
+**Saudi Aramco — PAN Engineering Intern**  
+June – August 2025
+
+- Supported the maintenance and optimization of Plant Area Networks for industrial operations.
+- Worked with engineers to diagnose connectivity issues and support operational teams.
+- Developed software to automate gas-well assignment and scheduling, collaborating with three engineers to simplify tracking and assignment workflows.
+
+## Featured engineering projects
+
+- **[AI-Driven Gearbox Fault Diagnostic Rig](https://github.com/khalid-alsaif/gearbox-fault-diagnostic-rig)** — Senior design work integrating a motor, variable-frequency drive, gearbox, brake, and vibration sensing for predictive maintenance. This repository contains the embedded data-acquisition and motor-control components; the PC classification application is outside its available scope.
+- **[FPGA Matrix Multiplier with HPS Interface](https://github.com/khalid-alsaif/fpga-matrix-multiplier)** — A DE1-SoC accelerator combining Verilog hardware, signed fixed-point arithmetic, asynchronous FIFOs, and C software for HPS control.
+- **[Single-Cycle and Pipelined Processor](https://github.com/khalid-alsaif/pipelined-processor-logisim)** — 16-bit processor designs in Logisim, covering datapath, ALU, instruction control, forwarding, and hazard detection.
+- **[AI-Guided Maze-Navigating Car](https://github.com/khalid-alsaif/ai-maze-navigating-car)** — An ESP32 robotic car combining camera-based sign recognition with an Edge Impulse classifier and ultrasonic obstacle detection.
+- **[IoT Laser Tag](https://github.com/khalid-alsaif/iot-laser-tag)** — A two-player ESP32-S3 game using MicroPython, infrared sensing, MQTT events, and a Node-RED dashboard.
+- **[Enterprise Network Architecture Design — source archive](https://github.com/khalid-alsaif/khalid-alsaif/blob/main/enterprise-network-design.zip)** — Academic network-design work connecting my networking coursework with a practical enterprise architecture.
+
+## Technical background
+
+| Area | Skills and foundations |
+| --- | --- |
+| Programming | Python, C/C++, Java, Assembly, Verilog, MATLAB |
+| Embedded and digital systems | ESP32, Arduino, Mbed, FPGA development, digital logic, processor design |
+| Networking | TCP/IP, IPv4/IPv6, subnetting, VLANs, routing and switching, network design |
+| IoT and cloud | MQTT, CoAP, IoT architecture, Docker, virtualization, REST APIs, cloud and edge computing |
+| Security fundamentals | Cryptography, access control, security protocols, data integrity |
+| Tools | Linux, Wireshark, Cisco Packet Tracer, VS Code, GitHub, Quartus, Logisim |
 
 ## Project collection
 
@@ -32,8 +63,10 @@ Each project is available through its repository or downloadable source archive.
 | [Smart Agricultural Monitoring and Control System — source archive](https://github.com/khalid-alsaif/khalid-alsaif/blob/main/smart-agriculture-system-design.zip) | Engineering design / project planning / smart agriculture | COE384 |
 | [Enterprise Network Architecture Design — source archive](https://github.com/khalid-alsaif/khalid-alsaif/blob/main/enterprise-network-design.zip) | Computer networks / enterprise architecture | COE444 |
 
-## Tools used across these projects
+## Leadership and languages
 
-Python · C/C++ · Java · MATLAB · Verilog · Arduino · ESP32 · FPGA · MQTT · JavaFX · Jupyter
+Led an 11-member team in the Quran Division of KFUPM's Al-Tawjih Al-Dini Club, organizing student programs and competitions. My volunteer experience also includes mentoring middle-school students as a summer-program supervisor.
 
-Several projects were developed with teammates. Each repository records its available scope and project context.
+**Languages:** Arabic (native) · English (professional)
+
+Several projects were developed with teammates. Each repository describes its available files and project context.
